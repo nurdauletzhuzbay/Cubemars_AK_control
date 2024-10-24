@@ -6,7 +6,7 @@ Code to control the CubeMars AK80-9 motor using an Arduino (ESP32) and the MCP25
 
 ## Equipment
 - **CubeMars AK80-9 motor** (30-45V power input)
-- **Arduino ESP32** (controller)
+- **Arduino or ESP32** (controller)
 - **MCP2515 CAN module** (to handle CAN communication)
 - **Power supply** (30-45V for motor)
 - CAN bus connection cables
