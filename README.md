@@ -32,8 +32,7 @@ Code to control the CubeMars AK80-9 motor using an Arduino (ESP32) and the MCP25
 
 ### Library Requirements
 Install the following libraries in your Arduino IDE:
-1. [MCP_CAN library](https://github.com/coryjfowler/MCP_CAN_lib) - For controlling the MCP2515 CAN module.
-2. **SPI.h** - For handling SPI communication between the ESP32 and MCP2515.
+[mcp2515 library](https://github.com/autowp/arduino-mcp2515) - For controlling the MCP2515 CAN module.
 
 ### Motor Control Functions
 
